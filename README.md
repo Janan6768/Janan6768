@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Janan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">💻 Front-End Developer | 🇵🇰 Pakistan | Passionate about building beautiful web experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janan6768&label=Profile%20views&color=0e75b6&style=flat" alt="janan6768" /> </p>
 
@@ -9,7 +9,7 @@
 - 🎓 **Currently learning**: 👨‍💻MERN Stack👨‍💻
 - 🎯 Focused on **building beautiful websites** and **learning javascript in depth**.
 - 🚀 Building cool things one project at a time.
-- 🔥 Portfolio link ( https://janan-porfolio.netlify.app/index.html )
+- 🔥 [Portfolio](https://janan-porfolio.netlify.app/index.html)
 
 
 ---
@@ -78,6 +78,11 @@
 >
 > 🔗 Live Preview: https://travel-snaptrip.netlify.app/
 
+👉 Check out more exciting projects on my Portfolio 🚀
+
+👉 I’m actively building new projects — stay tuned! ✨
+
+
 ---
 
 ## 📈 **GitHub Stats**
@@ -94,19 +99,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janan6768&layout=compact&theme=radical&hide_border=true&border_radius=15" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Janan6768&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
 
 ---
 
-## 📬 **Let's Connect!** 🔗
+## 📬 **Let's Connect!**
 
-- 📧 **Email**: [02.95.janan@gmail.com](mailto:02.95.janan@gmail.com)
-- 💼 **LinkedIn**: [[LinkedIn](https://www.linkedin.com/in/janan-khan-10ab30206/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janan-khan-10ab30206/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:02.95.janan@gmail.com)
+
 
 ---
 
 ## 🌱 **Fun Fact** 😄
   
-I believe **coding** is like a puzzle — you keep solving it, and every small piece brings you closer to the bigger picture! )
+I believe **coding** is like a puzzle — you keep solving it, and every small piece brings you closer to the bigger picture!
 
 
 ---
